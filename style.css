@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Square+Peg&display=swap");
+.head {
+  background-color: bisque; }
+  .head h1 {
+    text-align: center; }
+
+.head ul a:hover {
+  background-color: blue;
+  color: white; }
+
+.footer {
+  background-color: bisque; }
+
+.body {
+  background-color: aqua;
+  text-align: center;
+  font-family: 'Square Peg', cursive;
+  text-transform: uppercase; }
+
+body {
+  background-color: aqua;
+  text-align: center;
+  font-family: 'Square Peg', cursive;
+  text-transform: uppercase; }
+
+.album {
+  background-color: aqua;
+  text-align: center;
+  font-family: 'Square Peg', cursive;
+  text-transform: uppercase; }

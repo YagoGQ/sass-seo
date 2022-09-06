@@ -1,0 +1,18 @@
+.head {
+    background-color: bisque;
+
+    h1 {
+        text-align: center;
+    }
+}
+
+.head {
+    ul{
+        a{
+            &:hover {
+                background-color: blue;
+                color: white;
+            }
+        }
+    }
+}
